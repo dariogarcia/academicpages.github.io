@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# Solutions to Problems
-
-- [Scientific publications platform] ()
+- [Scientific publications platform] (/scientific_publications)
