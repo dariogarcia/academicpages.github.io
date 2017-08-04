@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-- [Scientific publications platform] (/scientific_publications)
+- [Scientific publications platform](scientific_publications/)
