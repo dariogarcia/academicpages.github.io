@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 - [Scientific publications platform](scientific_publications/)
+- [Practical tips of Deep Learning training](practical_dl/)]

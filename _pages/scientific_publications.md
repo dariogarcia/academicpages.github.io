@@ -5,7 +5,11 @@ permalink: /scientific_publications/
 author_profile: false
 ---
 
-### Known Problems:
+### Scientific Issues:
+
+A significant part of today's sciencific research (certainly the one originating at public institutions) is driven by the need to publish. The value of a researcher is basically determined by the yearly number of scientific papers written, by the reputation of the journals or conferences where those papers are published, and by the number of researchers that cite those publications in their own work. The first two factors say nothing of the quality or impact of a researcher's contribution. The first values quantity over quality, and the second rewards elitism. The third is at least a measure of scientific relevance, but not of scientific quality.
+
+This far from perfect ecosystem where research has to grow and mature, has resulted in severe problems for science. Next we outline some of those. 
 
 - Opaque Evaluation: Current evaluations (i.e., journal/conference reviews) are not published, and the people evaluating is not accountable for the quality of their reviews. This may lead to subjective reviews, which in turn result in unfair publication decisions. At the same time, readers of published papers are unaware of the issues the evaluators found on those, and have a harder time at identifying the limitations of published research.
 
